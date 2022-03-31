@@ -16,8 +16,5 @@ public class Count {
         Ex74 ex = new Ex74();
         boolean result = ex.count(array);
         System.out.println("Final result :"+result);
-
     }
-
-
 }
